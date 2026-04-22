@@ -90,9 +90,6 @@ MediFlow is a high-fidelity intelligence platform designed for the **Google Solu
 
 ---
 
-## 🌍 UN SDG Impact
-MediFlow directly contributes to **Sustainable Development Goal 3: Good Health and Well-being**, specifically target 3.8: *achieving universal health coverage and access to safe, effective, quality, and affordable essential medicines.*
 
----
 
 **Developed by Team MediFlow • GDSC Kerala**
