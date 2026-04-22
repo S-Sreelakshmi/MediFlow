@@ -2,19 +2,12 @@
 
 **Bridging Medicine Gaps Across Rural India — Powered by AI + Google Maps.**
 
-[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-latest-646CFF.svg)](https://vitejs.dev/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v4-38B2AC.svg)](https://tailwindcss.com/)
-[![SDG](https://img.shields.io/badge/UN--SDG-Goal--3-009D4D.svg)](https://sdgs.un.org/goals/goal3)
-
-## 🌟 Overview
+##  Overview
 MediFlow is a high-fidelity intelligence platform designed for the **Google Solution Challenge**. It addresses the critical issue of staggered medicine supply in rural Primary Health Centres (PHCs). By leveraging real-time inventory tracking and AI-driven logistics, MediFlow enables a self-healing medicine network that re-balances resources across districts before shortages become critical.
 
 **Localized for Ernakulam District, Kerala.**
 
----
-
-## 🚀 Key Features
+## Key Features
 
 ### 1. **Interactive PHC Network Map**
 *   **Live GIS Visualization**: Real-time status of 8 key PHCs (Aluva, Kochi Town, Angamaly, etc.).
@@ -42,11 +35,7 @@ MediFlow is a high-fidelity intelligence platform designed for the **Google Solu
 - **Icons**: Lucide React
 - **Data Visualization**: Recharts
 - **Animations**: native Tailwind keyframes & Framer-like transitions
-- **Intelligence**: Custom state-driven AI briefing engine
-
----
-
-## 📦 Installation & Setup
+- **Intelligence**: Custom state-driven AI briefing engine## Installation & Setup
 
 1. **Clone the repository**:
    ```bash
@@ -69,9 +58,7 @@ MediFlow is a high-fidelity intelligence platform designed for the **Google Solu
    npm run build
    ```
 
----
-
-## 🚢 Deployment Instructions
+## Deployment Instructions
 
 ### **Option 1: Vercel (Recommended)**
 1. Sign in to [Vercel](https://vercel.com/).
