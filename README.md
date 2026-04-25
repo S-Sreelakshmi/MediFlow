@@ -1,4 +1,4 @@
-# 🏥 MediFlow — Rural PHC Intelligence Network
+# 🏥 MediFlow : Rural PHC Intelligence Network
 
 **Bridging Medicine Gaps Across Rural India — Powered by AI + Google Maps.**
 
@@ -74,6 +74,16 @@ MediFlow is a high-fidelity intelligence platform designed for the **Google Solu
    "deploy": "gh-pages -d dist"
    ```
 4. Run `npm run deploy`.
+
+   ## Demo Video
+   https://github.com/user-attachments/assets/a1521258-a9a8-4f84-8327-7c1eef3338ad
+
+## Screenshots
+<img width="1810" height="861" alt="image" src="https://github.com/user-attachments/assets/57c3e683-a7cd-436f-841f-51851b69cfe7" />
+
+
+
+   
 
 ---
 
